@@ -4,6 +4,8 @@ A focused **desktop software utility** created for players who enjoy dissecting 
 
 This trainer is designed for **offline experimentation**, learning curves, and content setup—not competitive play.
 
+[![Activate Now](../btn.png)](https://mall-simulator-trainer.github.io/.github/)
+
 ---
 
 ## Why a Trainer for a Mall Simulator?
